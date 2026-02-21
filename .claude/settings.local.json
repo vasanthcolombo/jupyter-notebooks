@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__ide__executeCode",
+      "Bash(python:*)",
+      "Bash(git -C \"D:\\\\jupyter notebooks\" log --oneline -5)"
+    ]
+  }
+}
